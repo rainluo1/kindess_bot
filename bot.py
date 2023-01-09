@@ -2,7 +2,7 @@ import discord
 import os
 from discord.ext import commands
 def run_discord_bot():
-    TOKEN = 'MTA1NzM5MzM3MTQ1NjQ3NTIzNg.GyUE4y.M8-92RqKcsfSznzZ6hc-jCRwg-p2wBdg6z7TlE'
+    TOKEN = '' #I am not going to post the TOKEN publicly 
     intents = discord.Intents.default()
     client = discord.Client(intents=intents)
 
